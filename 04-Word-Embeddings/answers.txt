@@ -1,0 +1,42 @@
+
+
+Q1:
+
+The number of words in the subset.
+
+
+Q2:
+
+The dimension of the vector representing each word in the word embedding.
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626821398735046
+
+Q3:
+
+Yes.
+
+
+Q4:
+
+Yes. because it's the correct answer with high similarity 76% and the similarity is high 
+because the predicted country is the same as the correct country.
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+The plot above shows the relationship between the words in the list. The words that are closer to each other 
+are more related (e.g, gas, oil and petroleum related to each other they are used in the same context).
+
